@@ -1,0 +1,19 @@
+:root {
+    --c-dg-dk-red: #94260D;
+    --c-dg-red: #c53211;
+    --c-dg-lt-red: #CC4C2F;
+    --c-dg-dk-blue: #0D7B94;
+    --c-dg-blue: #11A4c5;
+    --c-dg-lt-blue: #88D1E2;
+    --c-dg-khaki: #e6dbc9;
+
+    --c-dg-black: #060706;
+    --c-dg-dark-gray: #2e3830;
+    --c-dg-gray: #969B97;
+    --c-dg-lt-gray: #CBCDCB;
+    --c-dg-ltr-gray: #E5E6E5;
+
+    --c-dg-error: #D8000C;
+    --c-dg-success: #4F8A10;
+}
+
